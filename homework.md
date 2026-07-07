@@ -6,11 +6,13 @@ nav_order: 4
 
 ## In-class Activities (25%)
 
-The final 30 minutes of each class will be dedicated to an in-class activity intended to help you practice new content we learned for the week. This activity will typically be in the format of paper and pencil worksheet, with some exceptions (e.g. Jeopardy). For worksheets, laptops and cell phones are not allowed (unless needed for accommodation purposes), but collaboration with your peers or bringing hand-written notes to class is encouraged. After you complete the in-class activity, you may use the rest of class time to work on your projects with your project group.
+The final part of each class will be dedicated to an in-class activity intended to help you practice new content we learned for the week. This activity will typically be in the format of paper and pencil worksheet. For worksheets, laptops and cell phones are not allowed (unless needed for accommodation purposes), but collaboration with your peers and use of notes you wrote from lecture is encouraged. After you complete the in-class activity, you may use the rest of class time to work on your projects with your project group.
+
+We will drop your three lowest in-class activity scores when computing final grades. 
 
 ## Research Project (75%)
 
-These are done in groups of 2-4. Groups of 1 may occur with a requested exception, e.g. if the project directly ties into a student's dissertation. The aim of this project is to produce a paper worthy of submission to an NLP workshop or conference.
+These are done in groups of 1-3. The aim of this project is to produce a paper worthy of submission to an NLP workshop or conference.
 
 ### Brainstorming (6 pts)
 
@@ -56,16 +58,17 @@ The format of this matches our peer feedback stage for brainstorming slides.
 Project teams submit their papers as PDFs with Overleaf links (8 pages). Include a section at the end that details the contributions of each collaborator on your project team. If there are strong disparities in this contribution list, then some team members’ class participation grade may be affected. Grading for the results section depends on whether it shows substantial progress, careful consideration of others' midterm feedback, and fulfillment of goals since the midterm report. Failure to meet goals is okay if there is thoughtful discussion around what was challenging and attempts you made towards success, and negative results are also acceptable especially if accompanied by explanation and/or additional analysis. 
 
 - Abstract (2 pts): Motivate the problem, highlight main goals, include any preliminary main findings.
+- Code repository (1 pt): A link to a public Github and/or Huggingface respositories.
 - Research question/s (2 pts): Try to limit this to less than three.
 - Related work (2 pts): Recap related work and indicate what is novel in your work compared to prior work.
 - Data (4 pts): Recap your dataset and basic statistics about it (e.g. total word count, number of sentences, metadata information).
 - Approach (5 pts): If your computational project advances a task methodologically, include baselines, parameter decisions, and evaluation. If you are running an experiment or applying a pre-existing method, include details on parameters and experimental design.
 - Results (8 pts): A written section that references key figures and tables, which include captions that are descriptive enough to stand alone.
-- Conclusion and Future Work (2 pts): Provide a summary of your work and its implications, as well as follow-up potential work. 
+- Conclusion and Future Work (1 pts): Provide a summary of your work and its implications, as well as follow-up potential work. 
 
-Do not use AI to generate entire paragraphs of written content in your final report, because writing enables active thinking. We would like you to actively think through your project as part of the final report preparation process. Other forms of AI assistance (e.g. generating figures, making writing edits, and surfacing related work) is allowed. 
+Do not use AI to generate entire paragraphs of written content in your final report, because writing enables active thinking. We would like you to actively think through your project as part of the final report preparation process. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. 
 
-### Final presentation (10 pts)
+### Final poster presentation (10 pts)
 
 Our final class session will involve a poster session, open to everyone in the CDIS community and beyond. 
 
