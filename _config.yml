@@ -1,0 +1,24 @@
+title: CS 769
+description: Fall 2026
+theme: just-the-docs
+
+url: ""
+
+# Sidebar nav order
+nav_sort: order
+
+# Footer
+footer_content: "CS 769 &mdash; Fall 2026"
+
+# Search
+search_enabled: true
+
+# Color scheme: "light" or "dark"
+color_scheme: light
+
+# Aux links in header
+aux_links:
+  "Piazza":
+    - "#"
+  "Canvas":
+    - "#"
