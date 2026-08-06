@@ -2,7 +2,8 @@ title: CS 769
 description: Fall 2026
 theme: just-the-docs
 
-url: ""
+url: "https://lucy3.github.io"
+baseurl: "/cs769-fall26"
 
 # Sidebar nav order
 nav_sort: order
