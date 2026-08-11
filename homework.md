@@ -4,11 +4,11 @@ layout: default
 nav_order: 4
 ---
 
-## In-class Activities (25%)
+## In-Class Assignments (25%)
 
-Some classes will involve in-class activities intended to help you practice new content we learned for the week. This activity will typically be in the format of paper and pencil worksheet, and may occur randomly without prior announcement -- so attend class regularly! For most activities, laptops and cell phones are not allowed (unless needed for accommodation purposes), but collaboration with your classmates and use of notes you hand-wrote is encouraged. 
+We'll have two class sessions dedicated to in-class "homework". These assignments will be paper and pencil. Laptops and cell phones are not allowed (unless needed for accommodation purposes), but collaboration with your classmates and use of notes you hand-wrote is encouraged. You must show step-by-step work and/or justification for your thinking on your own assignment to receive credit for any answer. These assignments are turned in at the end of class. 
 
-We will drop your three lowest in-class activity scores when computing final grades.
+If you are unable to make the date for an in-class assignment, you may complete the assignment during a separate date and time in Lucy's office. 
 
 ## Research Project (75%)
 

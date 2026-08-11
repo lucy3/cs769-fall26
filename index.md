@@ -27,4 +27,4 @@ Assignments will be submitted via Gradescope (TBD).
 
 ## Credits
 
-Course materials and lecture topics are inspired by previous iterations of UW-Madison's [CS 276](https://junjiehu.github.io/cs769-fall25/), Berkeley's [CS 288](https://cal-cs288.github.io/sp26/), Stanford's [CS 224N](https://web.stanford.edu/class/cs224n/), Princeton's [COS 484](https://princeton-nlp.github.io/cos484/), and Columbia's [COMS 4705](https://www.cs.columbia.edu/~johnhew/coms4705/index.html).
+Course materials and lecture topics are inspired by previous iterations of UW-Madison's [CS 769](https://junjiehu.github.io/cs769-fall25/), Berkeley's [CS 288](https://cal-cs288.github.io/sp26/), Stanford's [CS 224N](https://web.stanford.edu/class/cs224n/), Stanford's [CS224U](https://web.stanford.edu/class/cs224u/), Stanford's [CS 124](https://web.stanford.edu/class/cs124/), Princeton's [COS 484](https://princeton-nlp.github.io/cos484/), and Columbia's [COMS 4705](https://www.cs.columbia.edu/~johnhew/coms4705/index.html). Of these courses, Lucy has previously taken versions of Berkeley's CS 288 and Stanford's CS 224N, CS224U, and CS124, as a student herself long ago. 
