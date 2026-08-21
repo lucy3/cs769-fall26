@@ -1,0 +1,43 @@
+// custom SCSS (or CSS) goes here
+
+// Table column widths.
+// The theme sets a blanket `min-width: 7.5rem` on every th/td (_sass/tables.scss),
+// which makes narrow columns like "#" much wider than they need to be.
+// Columns are matched by position: 1=#, 2=Date, 3=Topic, 4=Slides, 5=Resources, 6=Deadlines.
+
+table {
+  th,
+  td {
+    min-width: 0; // clear the theme default, then set per column below
+  }
+
+  th:nth-child(1),
+  td:nth-child(1) {
+    min-width: 2.5rem;
+  }
+
+  th:nth-child(2),
+  td:nth-child(2) {
+    min-width: 5rem;
+  }
+
+  th:nth-child(3),
+  td:nth-child(3) {
+    min-width: 12rem;
+  }
+
+  th:nth-child(4),
+  td:nth-child(4) {
+    min-width: 4.5rem;
+  }
+
+  th:nth-child(5),
+  td:nth-child(5) {
+    min-width: 20rem;
+  }
+
+  th:nth-child(6),
+  td:nth-child(6) {
+    min-width: 8rem;
+  }
+}
