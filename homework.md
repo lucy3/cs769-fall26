@@ -1,7 +1,7 @@
 ---
-title: Homework
+title: Assignments
 layout: default
-nav_order: 4
+nav_order: 3
 ---
 
 ## In-Class Assignments (25 pts each)
@@ -27,19 +27,15 @@ Propose a project idea. Project descriptions should include why the question/s b
 
 You will submit one Google Slide per idea. Any relevant papers you cite should not be overly generic papers (e.g. the technical report for Gemini 3) but instead representative prior work. You will pitch your slide in 3-5 minutes to the class. We will compile all slides into a single slide deck (taking the version of the document link closest to the deadline). If you have presenter notes, you may want to keep those with you on your end. 
 
-Due date & time: Sept 22, 11:59 pm CT. 
-
 ### Peer feedback for brainstormed project ideas (5 pts)
 
 A folder of slide decks of groups' brainstorming efforts will be shared with the class, and you are expected to add comments on each other's projects to give at least three other project teams feedback, ideas, or questions. This will be graded as all or nothing, with 2 pt extra credit given to those who engage substantially (not just in the amount of feedback, but the quality of feedback). Please spread out your comments so that each team gets some feedback from someone. 
 
-Due date & time: Sept 28, 11:59 pm CT. 
-
 ### Proposal (10 pts)
 
-Expand on one project idea from the brainstorming phase and describe potential experiments and pipelines needed to carry out the project (700-1000 words). Also expand the literature review by including additional relevant papers. Write your proposal in Overleaf as a human using the ACL conference paper template, and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas. (We hope that we won't need to do this, but revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups.)
+Expand on one project idea from the brainstorming phase and describe potential experiments and pipelines needed to carry out the project (700-1000 words). Also expand the literature review by including additional relevant papers. Write your proposal directly in Overleaf as a human using the ACL conference paper template, and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas. 
 
-Due date & time: Sept 30, 11:59 pm CT. 
+We hope that we won't need to do this, but revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups.
 
 ### Midterm presentation (10 pts)
 
@@ -51,17 +47,13 @@ The length of this presentation is TBD based on the number of project groups. Yo
 
 If you use AI to make key decisions in your project, you should be able to explain why the decisions being made are good decisions. 
 
-Due date & time: Oct 25, 11:59 pm CT. 
-
 ### Peer feedback for midterm presentations (5 pts)
 
 The format of this matches our peer feedback stage for brainstorming slides.
 
-Due date & time: Nov 2, 11:59 pm CT. 
-
 ### Final report (25 pts)
 
-Project teams submit their papers as PDFs with Overleaf links (8 pages). Include a section at the end that details the contributions of each collaborator on your project team. If there are strong disparities in this contribution list, then some team members’ class participation grade may be affected. Grading for the results section depends on whether it shows substantial progress, careful consideration of others' midterm feedback, and fulfillment of goals since the midterm report. Failure to meet goals is okay if there is thoughtful discussion around what was challenging and attempts you made towards success, and negative results are also acceptable especially if accompanied by explanation and/or additional analysis. 
+Project teams submit their papers as PDFs with Overleaf links (8 pages). Include a section at the end that details the contributions of each collaborator (including AI use) on your project team. If there are strong disparities in this contribution list, then some team members’ class participation grade may be affected. Grading for the results section depends on whether it shows substantial progress, careful consideration of others' midterm feedback, and fulfillment of goals since the midterm report. Failure to meet goals is okay if there is thoughtful discussion around what was challenging and attempts you made towards success, and negative results are also acceptable especially if accompanied by explanation and/or additional analysis. 
 
 - Abstract (2 pts): Motivate the problem, highlight main goals, include any preliminary main findings.
 - Code repository (1 pt): A link to a public Github and/or Huggingface respositories.
@@ -72,19 +64,15 @@ Project teams submit their papers as PDFs with Overleaf links (8 pages). Include
 - Results (8 pts): A written section that references key figures and tables, which include captions that are descriptive enough to stand alone.
 - Conclusion and Future Work (1 pts): Provide a summary of your work and its implications, as well as follow-up potential work. 
 
-Do not use AI to generate entire paragraphs of written content in your final report, because writing enables active thinking. We would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. 
+Do not use AI to generate entire paragraphs of written content in your final report, because writing enables active thinking. We would like you to actively think through your project as a human. Directly write your report in LaTeX in Overleaf; do not copy it over from Google Docs, etc. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. 
 
 The point system above is applied based on content and substance. One penalty point will be applied if the PDF you submit does not pass [aclpubcheck](https://github.com/acl-org/aclpubcheck). The penalty in actual research settings is harsher; papers get desk rejected when formatting rules are not followed. Up to five penalty points may also be applied if your writing is unclear or if the paper is poorly organized. 
 
 The due date for the final paper is very close to the due date for the poster, to anticipate potential last minute changes to your results during poster preparation. We highly recommend starting and finishing this paper early! 
 
-Due date & time: Dec 7, 11:59 pm CT. 
-
 ### Final poster presentation (10 pts)
 
 Our final class session will involve a poster session, open to others in the CDIS community and beyond. 
-
-Due date & time for uploading poster PDF: Dec 9, 11:59 pm CT. 
 
 ## Academic Misconduct
 
