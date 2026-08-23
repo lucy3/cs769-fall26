@@ -22,7 +22,7 @@ When emailing, put "CS 769" at the start of the subject line, and email **both**
 
 ## Logistics
  
-Project deliverables will be submitted via [Canvas](https://canvas.wisc.edu/), while in-class assignments are graded on [GradeScope](https://www.gradescope.com/courses/1360916).  
+Project deliverables will be submitted via [Canvas](https://canvas.wisc.edu/), while in-class assignments are graded on [Gradescope](https://www.gradescope.com/courses/1360916).  
 
 ## Credits
 
