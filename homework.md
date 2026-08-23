@@ -29,7 +29,7 @@ You will submit one Google Slide per idea. Any relevant papers you cite should n
 
 ### Peer feedback for brainstormed project ideas (5 pts)
 
-A folder of slide decks of groups' brainstorming efforts will be shared with the class, and you are expected to add comments on each other's projects to give at least three other project teams feedback, ideas, or questions. This will be graded as all or nothing, with 2 pt extra credit given to those who engage substantially (not just in the amount of feedback, but the quality of feedback). Please spread out your comments so that each team gets some feedback from someone. 
+A folder of slide decks of groups' brainstorming efforts will be shared with the class, and you are expected to add comments on each other's projects to give at least three other project teams feedback, ideas, or questions. This will be graded as all or nothing, with 2 pt extra credit given to those who engage substantially (not just in the number of comments, but the quality of comments). Please spread out your comments so that each team gets some feedback from someone. 
 
 ### Proposal (10 pts)
 
@@ -43,9 +43,9 @@ We will have two class sessions dedicated to midterm presentations.
 
 This presentation covers progress made so far, data collected, challenges faced, preliminary results, and the timeline needed to complete the project. Your presentation should cover related work, your dataset, your methodological approach, preliminary results (e.g. figures and tables), and next steps. You may also discuss ways in which your new goals have deviated from your original ones. 
 
-The length of this presentation is TBD based on the number of project groups. You will submit your slides on Google Slides before class, and we will compile them into a single mega-slide deck to ease presentation timing. 
+You will be graded based on presentation delivery and clarity (3 pts), whether your progress is substantive (5 pt), and how well you handle questions posed by the audience (2 pt). It is okay to not have all of the answers, but you should be able to explain details about your process and project. If you use AI to make key decisions in your project, you should be able to explain why the decisions being made are good decisions. 
 
-If you use AI to make key decisions in your project, you should be able to explain why the decisions being made are good decisions. 
+The length of this presentation is TBD based on the number of project groups. You will submit your slides on Google Slides before class, and we will compile them into a single mega-slide deck to ease presentation timing. 
 
 ### Peer feedback for midterm presentations (5 pts)
 
@@ -72,7 +72,7 @@ The due date for the final paper is very close to the due date for the poster, t
 
 ### Final poster presentation (10 pts)
 
-Our final class session will involve a poster session, open to others in the CDIS community and beyond. 
+Our final class session will involve a poster session, open to others in the CDIS community and beyond. During this poster session, you will be primarily graded based on whether you can provide thoughtful answers to questions the instructor/TA asks about your work and the decisions you made. Your answers should demonstrate engagement and understanding with the details of your work. 
 
 ## Academic Misconduct
 

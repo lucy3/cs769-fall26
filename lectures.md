@@ -15,12 +15,12 @@ This schedule is tentative, especially the topics of later lectures.
 | 1 | Sep 2 | Introduction & History of NLP | [PDF](#) | Christopher D. Manning. 2022. [Human Language Understanding and Reasoning](https://www.amacad.org/publication/daedalus/human-language-understanding-reasoning). Daedalus 151(2): 134–145 | - |
 | - | Sep 7 | Labor Day (no class) | - | - | - |
 | 2 | Sep 9 | Text Embeddings | [PDF](#) | SLP ch 5 | - |
-| 3 | Sep 14 | Language Models and RNNs | [PDF](#) | SLP ch 3, ch 14 | - |
+| 3 | Sep 14 | Language Models and RNNs | [PDF](#) | SLP ch 3, ch 14 | |
 | 4 | Sep 16 | Transformers | [PDF](#) | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | - |
 | 5 | Sep 21 | Pre-training | [PDF](#) | SLP ch 7 | - |
 | - | Sept 22 | - | - | - | Project Brainstorming due |
-| 6 | Sep 23 | Post-training | [PDF](#) | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
-| 7 | Sep 28 | Project Proposal Presentations | [PDF](#) | - | - | 
+| 6 | Sep 23 | Project Proposal Presentations | [PDF](#) | - | - | 
+| 7 | Sep 28 | Post-training | [PDF](#) | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF](#) | - | - | 
 | - | Oct 1 | Brainstorming Peer Feedback due | - | - | - | 
 | 9 | Oct 5 | Reasoning | [PDF](#) | TBD | Project Proposal due | 
