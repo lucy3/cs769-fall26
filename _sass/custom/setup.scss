@@ -1,0 +1,12 @@
+// Theme variable overrides.
+// This file is imported by just-the-docs *before* its layout rules, so plain
+// assignments here win over the `!default` values in the gem's _variables.scss.
+
+// Narrower left sidebar (theme defaults: 16.5rem / 15.5rem). The nav only holds
+// a handful of short page titles, so it doesn't need the full width.
+$nav-width: 12rem;
+$nav-width-md: 11.5rem;
+
+// Wider content column (theme default: 50rem). The lectures table needs roughly
+// 58rem for its six columns before the Deadlines column gets clipped.
+$content-width: 64rem;

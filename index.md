@@ -6,19 +6,24 @@ nav_order: 1
 
 # Advanced Natural Language Processing
 
-## Fall 2026 - University of Wisconsin-Madison
+## 🍂 Fall 2026 - University of Wisconsin-Madison 🦡
 
 ---
 
-Natural language processing (NLP) models human language with computers, tackling a variety of tasks from automatic translation to interactive question answering. CS 769 is a research-driven graduate-level course on natural language processing aimed at students who are interested in doing cutting-edge research in the field. We'll learn about fundamental tasks and methods in NLP, as well as take occasional deep dives into researchers' recent papers. The class culminates in a final project in which students design and implement a paper on a topic of their choosing.
+Natural language processing (NLP) models human language with computers, tackling a variety of tasks from automatic translation to interactive question answering. CS 769 is a research-driven graduate-level course aimed at students who are interested in doing cutting-edge research in the field. We'll learn about fundamental tasks and methods in NLP, as well as take occasional deep dives into researchers' recent papers. The class culminates in a final project in which students design and implement a paper on a topic of their choosing.
 
-**Instructor**: Lucy Li  
-**TA**: Sonia Cromp  
-**Class time and place**: Mon & Wed 1:00PM - 2:15PM in COMP SCI 1257  
-**Instructor OH**: Wed 2:15 PM - 3:15 PM  
-**TA OH**: TBD  
+**Instructor**: [Lucy Li](https://lucy3.github.io/) <br> 
+**TA**: [Sonia Cromp](https://socromp.github.io/) <br> 
+**Class time**: Mon & Wed 1:00PM - 2:15PM <br>
+**Location**: COMP SCI 1257 <br> 
+**Instructor OH**: Wed 2:15 PM - 3:15 PM <br> 
+**TA OH**: Thurs 1:00 PM - 2:00 PM (zoom link to be announced on Canvas)
 
-When emailing, put "CS 769" at the start of the subject line, and email **both** the TA and the Instructor. Otherwise, your email will get buried and we may not respond. 
+## Contact
+
+**Emails**: lucyli@cs.wisc.edu, sonic@cs.wisc.edu 
+
+When emailing, put "CS 769" at the start of the subject line, and email **both** the TA and the Instructor. Otherwise, your email will get buried and we may not respond. Do not message or leave comments for us through Canvas; we're not be notified when you do this and so we will probably miss them. 
 
 ## Logistics
  
