@@ -32,15 +32,15 @@ The aim of this project is to produce a paper worthy of submission to a workshop
 
 **Team size**. These are done in groups of 2-4. 
 
-**Deadlines**. Just like OpenReview deadlines, **there are no late days** -- please plan ahead and coordinate with your group members if one of you has a conflict. Each day late incurs a 20% point penalty. Late days penalties are applied to assignment grading at the end of the semester. We follow Canvas's implementation of time for determining whether assignments are submitted late. It is possible that a deadline of 11:59 pm on Canvas is 11:59:00 pm and not 11:59:59 pm, and so you should avoid submitting too last-minute to avoid worrying at this level of granularity.
+**Deadlines**. **There are no late days** -- please plan ahead and coordinate with your group members if one of you has a conflict. Each day late incurs a 10% point penalty. Late days penalties are applied to assignment grading at the end of the semester. We follow Canvas's implementation of time for determining whether assignments are submitted late. It is possible that a deadline of 11:59 pm on Canvas is 11:59:00 pm and not 11:59:59 pm, and so you should avoid submitting too last-minute to avoid worrying at this level of granularity.
 
 **Grading**. Grading for the research project is shared across group members. We may adjust individual members' grades in extreme cases of unequal contribution. 
 
 **Project Overlap**. You can work on a project that has external collaborators who are not students in the course, but you must note this in your final report and delineate what was your work and what was theirs. You can share a single project between our class and another class, but you must declare that you are sharing the project in your project proposal, and the expectation is that your contribution and effort will be bigger. 
 
-**Compute**. On the first day of class, we will discuss compute opportunities via instructional GPUs and Google Cloud Credits.
+**Compute**. On the first day of class, we will discuss compute opportunities, e.g. instructional GPUs and Google Cloud Credits.
 
-**Policies**. You are allowed to use existing codebases from prior work as long as you document it. You'll be graded based on what you contribute. Using AI to generate entire paragraphs of written content in your proposal or final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Overleaf revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups. 
+**Policies**. You are allowed to use existing codebases from prior work as long as you document it. You'll be graded based on what you contribute. Using AI to generate paragraphs of written content in your proposal or final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Overleaf revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups. 
 
 ## Brainstorming (5 pts)
 
@@ -76,7 +76,7 @@ We will have two class sessions dedicated to midterm presentations.
 This presentation covers progress made so far, data collected, challenges faced, preliminary results, and the timeline needed to complete the project. Your presentation should cover related work, your dataset, your methodological approach, preliminary results (e.g. figures and tables), and next steps. You may also discuss ways in which your new goals have deviated from your original ones. 
 
 You will be graded based on: 
-- presentation delivery and clarity. (3 pts)
+- presentation delivery and clarity. (3 pt)
 - whether your progress is substantive. (5 pt)
 - how well you handle questions posed by the audience. (2 pt)
 
@@ -97,14 +97,14 @@ Project teams submit their papers as **PDFs with Overleaf links** (8 pages).
 - Research question/s (2 pts): Try to limit this to less than three.
 - Related work (2 pts): Recap related work and indicate what is novel in your work compared to prior work.
 - Data (4 pts): Recap your dataset and basic statistics about it (e.g. total word count, number of sentences, metadata information).
-- Approach (5 pts): If your computational project advances a task methodologically, include baselines, parameter decisions, and evaluation. If you are running an experiment or applying a pre-existing method, include details on parameters and experimental design.
-- Results (8 pts): A written section that references key figures and tables, which include captions that are descriptive enough to stand alone. Grading for the results section depends on whether it shows substantial progress, careful consideration of others' midterm feedback, and fulfillment of goals since the midterm report. Failure to meet goals is okay if there is thoughtful discussion around what was challenging and attempts you made towards success, and negative results are also acceptable especially if accompanied by explanation and/or additional analysis. 
+- Approach (5 pts): If your computational project advances a task methodologically, include baselines, parameter decisions, and evaluation. If you are running an experiment or applying a pre-existing method, include details on parameters and experimental design. Motivate the validity of your methodology. 
+- Results (8 pts): A written section that references key figures and tables, which include captions that are descriptive enough to stand alone. Grading for the results section depends on whether it shows substantial progress, careful consideration of others' midterm feedback, and fulfillment of goals since the midterm report. Failure to meet goals is okay if there is thoughtful discussion around what was challenging and attempts you made towards success, and negative results are also acceptable especially if accompanied by explanation and/or additional analysis. Your results should be sound; you should support your claims with clear arguments and evidence. 
 - Conclusion and Future Work (1 pts): Provide a summary of your work and its implications, as well as follow-up potential work. 
 - Contributions (0 pts, but if missing, -1 pt): Describe the contributions of each collaborator (including AI use) across your project team.
 - Formatting (0 pts, but -1 pt possible): One penalty point will be applied if the PDF you submit does not pass [aclpubcheck](https://github.com/acl-org/aclpubcheck). The penalty in actual research settings is harsher; papers get *desk rejected* when formatting rules are not followed. 
 - Clarity (0 pts, but -5 pt possible): Up to five penalty points may also be applied if your writing is unclear or if the paper's content is poorly organized. 
 
-Like with the project proposal, please **include a link to your pdf Overleaf as a footnote in the PDF** you upload onto Canvas. Directly write your report in LaTeX in Overleaf.
+Like with the project proposal, please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. Directly write your report in LaTeX in Overleaf.
 
 ⚠️ The due date for the final paper is very close to the due date for the poster, to anticipate potential last minute changes to your results during poster preparation. We highly recommend starting and finishing this paper early! 
 
