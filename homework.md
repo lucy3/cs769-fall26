@@ -8,9 +8,21 @@ nav_order: 3
 
 # In-Class Assignments (25 pts each)
 
-We'll have two class sessions dedicated to in-class "homework". These assignments will be paper and pencil. Open electronics (cell phones, laptops, Meta glasses, etc) are not allowed unless needed for accommodation purposes, but you may collaborate with up to five of your classmates and use notes you hand-wrote. You are not allowed to "crowdsource" answers across the entire class and share them in a lecture-like manner. You must show step-by-step work and/or justification for your thinking on your own assignment to receive credit. Before turning in your assignment at the end of class, write the names of people you worked with on the first page. 
+We'll have two class sessions dedicated to in-class activities or "homework". These assignments will be paper and pencil. 
 
-If you are unable to make the date for an in-class assignment, you may complete an alternative assignment during a separate date and time in Lucy's office.
+During these class sessions, don't: 
+- Use open electronics (cell phones, laptops, Meta glasses, etc), unless needed for accommodation purposes. 
+- "Crowdsource" answers across the entire class and broadcast them in a lecture-like manner. 
+
+You may instead:
+- Collaborate with your classmates and help each other build understanding. 
+- Use notes you hand-wrote. 
+
+You should: 
+- Show step-by-step work and/or justification for your thinking on your own assignment to receive credit. 
+- Write the names of people you worked with on the first page. 
+
+In-class assignments are due at the end of class. If you are unable to make the date for an in-class assignment, you may complete an alternative assignment during a separate date and time in Lucy's office.
 
 You cannot submit a regrade request multiple times for the same problem.
 
@@ -26,7 +38,9 @@ The aim of this project is to produce a paper worthy of submission to a workshop
 
 **Project Overlap**. You can work on a project that has external collaborators who are not students in the course, but you must note this in your final report and delineate what was your work and what was theirs. You can share a single project between our class and another class, but you must declare that you are sharing the project in your project proposal, and the expectation is that your contribution and effort will be bigger. 
 
-**Compute**. On the first day of class, we will discuss compute opportunities via instructional GPUs and Google Cloud Credits. 
+**Compute**. On the first day of class, we will discuss compute opportunities via instructional GPUs and Google Cloud Credits.
+
+**Policies**. You are allowed to use existing codebases from prior work as long as you document it. You'll be graded based on what you contribute. Using AI to generate entire paragraphs of written content in your proposal or final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Overleaf revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups. 
 
 ## Brainstorming (5 pts)
 
@@ -53,7 +67,7 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Literature review. (3 pt)
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
 
-**Write your proposal directly in Overleaf** as a human using the ACL conference paper template, and **include the link to the Overleaf as a footnote in the PDF** your submit onto Canvas (with permissions set to "anyone with the link can view"). We hope that we won't need to do this, but revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups. We also ask you to write directly in Overleaf so that you can avoid last-minute formatting issues. 
+Write your proposal directly in Overleaf as a human using the ACL conference paper template, and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). 
 
 ## Midterm Presentation (10 pts)
 
@@ -90,9 +104,7 @@ Project teams submit their papers as **PDFs with Overleaf links** (8 pages).
 - Formatting (0 pts, but -1 pt possible): One penalty point will be applied if the PDF you submit does not pass [aclpubcheck](https://github.com/acl-org/aclpubcheck). The penalty in actual research settings is harsher; papers get *desk rejected* when formatting rules are not followed. 
 - Clarity (0 pts, but -5 pt possible): Up to five penalty points may also be applied if your writing is unclear or if the paper's content is poorly organized. 
 
-Using AI to generate entire paragraphs of written content in your final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. 
-
-Like with the project proposal, please **include a link to your pdf Overleaf as a footnote in the PDF** you upload onto Canvas. Directly write your report in LaTeX in Overleaf; do not copy it over from Google Docs, etc.  
+Like with the project proposal, please **include a link to your pdf Overleaf as a footnote in the PDF** you upload onto Canvas. Directly write your report in LaTeX in Overleaf.
 
 ⚠️ The due date for the final paper is very close to the due date for the poster, to anticipate potential last minute changes to your results during poster preparation. We highly recommend starting and finishing this paper early! 
 
