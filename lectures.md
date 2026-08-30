@@ -19,7 +19,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 2 | Sep 9 | Text Representations | [PDF](#) | SLP ch 5 | - |
 | 3 | Sep 14 | Language Models and RNNs | [PDF](#) | SLP ch 3, ch 14 | |
 | 4 | Sep 16 | Transformers | [PDF](#) | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | - |
-| 5 | Sep 21 | Pre-training | [PDF](#) | SLP ch 7 | Project Brainstorming due Sept 22 |
+| 5 | Sep 21 | Pre-training | [PDF](#) | SLP ch 7 | Project Brainstorming Slide due Sept 22 |
 | 6 | Sep 23 | **Project Proposal Presentations** | [PDF](#) | - | - | 
 | 7 | Sep 28 | Post-training | [PDF](#) | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF](#) | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 

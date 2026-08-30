@@ -2,6 +2,57 @@
 // This file is imported by just-the-docs *before* its layout rules, so plain
 // assignments here win over the `!default` values in the gem's _variables.scss.
 
+// ---------------------------------------------------------------------------
+// Palette
+//
+// Lifted from the group site's stylesheet (lucy3.github.io, group.html) so the
+// course pages read as part of the same family: warm paper background, near
+// black ink, and a small set of flat editorial accents.
+// ---------------------------------------------------------------------------
+$paper-bg: #f2f0e8;
+$paper-surface: #fbf8ef;
+$paper-surface-strong: #fffdf6;
+$ink: #171713;
+$ink-muted: #5c5b51;
+$paper-soft: #ded7c7;
+$paper-line: #c9c0ad;
+$accent-red: #c9362b;
+$accent-yellow: #e2ae25;
+$accent-rust: #a84522;
+
+$body-background-color: $paper-bg;
+$sidebar-color: $paper-surface;
+$body-heading-color: $ink;
+$body-text-color: #3b3a33;
+$link-color: $accent-red;
+$nav-child-link-color: $ink-muted;
+$border-color: $paper-line;
+$table-background-color: $paper-surface;
+$code-background-color: $paper-surface-strong;
+$search-background-color: $paper-surface-strong;
+$search-result-preview-color: $ink-muted;
+$base-button-color: $paper-surface;
+$btn-primary-color: $ink;
+
+// Hover wash behind nav links and the site title. The theme feeds this through
+// `rgba($feedback-color, ...)`, so it has to stay a solid color.
+$feedback-color: #ece2c8;
+
+// ---------------------------------------------------------------------------
+// Typography and shape
+// ---------------------------------------------------------------------------
+$body-font-family: ui-sans-serif, system-ui, -apple-system, blinkmacsystemfont,
+  "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+$body-heading-line-height: 1.05;
+$content-line-height: 1.6;
+
+// The reference design is square-cornered throughout.
+$border-radius: 0;
+
+// ---------------------------------------------------------------------------
+// Grid system
+// ---------------------------------------------------------------------------
+
 // Narrower left sidebar (theme defaults: 16.5rem / 15.5rem). The nav only holds
 // a handful of short page titles, so it doesn't need the full width.
 $nav-width: 12rem;

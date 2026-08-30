@@ -40,7 +40,7 @@ The aim of this project is to produce a paper worthy of submission to a workshop
 
 **Compute**. On the first day of class, we will discuss compute opportunities, e.g. instructional GPUs and Google Cloud Credits.
 
-**Policies**. You are allowed to use existing codebases from prior work as long as you document it. You'll be graded based on what you contribute. Using AI to generate paragraphs of written content in your proposal or final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Overleaf revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups. 
+**Policies**. You are allowed to use existing codebases from prior work as long as you document it. You'll be graded based on what you contribute. Using AI to generate paragraphs of written content in your proposal or final report is considered academic misconduct. Writing enables active thinking, and we would like you to actively think through your project as a human. Other forms of AI assistance (e.g. programming, generating figures, making writing edits, and surfacing related work) are allowed. Overleaf revision history for the proposal and final report may be used for resolving potential contribution disputes within project groups.
 
 ## Brainstorming (5 pts)
 
@@ -67,7 +67,7 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Literature review. (3 pt)
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
 
-Write your proposal directly in Overleaf as a human using the ACL conference paper template, and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). 
+Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). 
 
 ## Midterm Presentation (10 pts)
 
@@ -90,7 +90,7 @@ The format and grading of this matches our peer feedback stage for brainstorming
 
 ## Final Report (25 pts)
 
-Project teams submit their papers as **PDFs with Overleaf links** (8 pages). 
+Project teams submit their papers, using the ACL conference paper template, as **PDFs with Overleaf links** (8 pages). 
 
 - Abstract (2 pts): Motivate the problem, highlight main goals, include any preliminary main findings.
 - Code repository (1 pt): A link to a public Github and/or Huggingface respositories.

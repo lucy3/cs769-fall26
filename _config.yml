@@ -12,14 +12,7 @@ nav_sort: order
 footer_content: "CS 769 &mdash; Fall 2026"
 
 # Search
-search_enabled: true
+search_enabled: false
 
 # Color scheme: "light" or "dark"
 color_scheme: light
-
-# Aux links in header
-aux_links:
-  "Piazza":
-    - "#"
-  "Canvas":
-    - "#"
