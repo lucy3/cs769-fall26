@@ -16,7 +16,7 @@ Natural language processing (NLP) models human language with computers, tackling
 **TA**: [Sonia Cromp](https://socromp.github.io/) <br> 
 **Class time**: Mon & Wed 1:00PM - 2:15PM <br>
 **Location**: COMP SCI 1257 <br> 
-**Instructor OH**: Wed 3:00 PM - 4:00 PM in MH 6580<br>
+**Instructor OH**: Wed 3:00 PM - 4:00 PM<br>
 **TA OH**: Thurs 1:00 PM - 2:00 PM (zoom link to be announced on Canvas)
 
 ## Contact
