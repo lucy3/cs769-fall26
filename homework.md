@@ -12,7 +12,7 @@ We'll have two class sessions dedicated to in-class activities or "homework". Th
 
 During these class sessions, don't: 
 - Use open electronics (cell phones, laptops, Meta glasses, etc), unless needed for accommodation purposes. 
-- "Crowdsource" answers across the entire class and broadcast them in a lecture-like manner. 
+- "Crowdsource" answers across the entire class or broadcast them in a lecture-like manner. 
 
 You may instead:
 - Collaborate with your classmates and help each other build understanding. 
@@ -110,7 +110,7 @@ Like with the project proposal, please include a link to your pdf Overleaf as a 
 
 ## Poster Presentation (10 pts)
 
-Our final class session will involve a poster session, open to others in the CDIS community and beyond. 
+Our final class session will involve a poster session. 
 
 Grading: 
 - Live question responses (5 pt). You should provide thoughtful answers to questions the instructor/TA asks about your work and the decisions you made. Your answers should demonstrate engagement and understanding with the details of your work. 

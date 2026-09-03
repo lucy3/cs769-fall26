@@ -16,7 +16,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 |---|------|-------|--------|-------|-------|
 | 1 | Sep 2 | Introduction | [PDF]({{ site.baseurl }}/lectures/1-introduction.pdf) | Christopher D. Manning. 2022. [Human Language Understanding and Reasoning](https://www.amacad.org/publication/daedalus/human-language-understanding-reasoning). Daedalus 151(2): 134–145 <br> [Chris Olah's Research Taste Exercises](https://colah.github.io/notes/taste/) <br> [Eugene Vinitsky's Unsolicited Guide](https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf) <br> [Four Categories of Acceptable Papers](https://2022.emnlp.org/blog/Short-Pieces-on-Reviwing/) | - |
 | - | Sep 7 | Labor Day (no class) | - | - | - |
-| 2 | Sep 9 | Text Representations | [PDF](#) | SLP ch 5 | - |
+| 2 | Sep 9 | Text Representations | [PDF](#) | SLP ch 2, ch 5 | - |
 | 3 | Sep 14 | Language Models and RNNs | [PDF](#) | SLP ch 3, ch 14 | Project groups formed on Canvas. |
 | 4 | Sep 16 | Transformers | [PDF](#) | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | - |
 | 5 | Sep 21 | Pre-training | [PDF](#) | SLP ch 7 | Project Brainstorming Slide due Sept 22 |
