@@ -23,15 +23,15 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 6 | Sep 23 | **Project Proposal Presentations** | [PDF](#) | - | - | 
 | 7 | Sep 28 | Post-training | [PDF](#) | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF](#) | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
-| 9 | Oct 5 | Reasoning | [PDF](#) | TBD | Project Proposal due Oct 5 | 
+| 9 | Oct 5 | Generation & Inference | [PDF](#) | TBD | Project Proposal due Oct 5 | 
 | 10 | Oct 7 | **In Class Assignment I** | [PDF](#) | - | - | 
 | 12 | Oct 12 | Guest Lecture - Rulin Shao | [PDF](#) | [Rulin's website](https://rulinshao.github.io/) | - | 
 | 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | [PDF](#) | [Sara's website](https://skangasl.github.io/) | - |
-| 14 | Oct 19 | Long Contexts & Experts | [PDF](#) | TBD | - | 
-| 15 | Oct 21 | Evaluation & Benchmarks | [PDF](#) | TBD | Midterm Presentation Slides due Oct 25 | 
+| 14 | Oct 19 | Reasoning | [PDF](#) | TBD | - | 
+| 15 | Oct 21 | Long Contexts & Experts | [PDF](#) | TBD | Midterm Presentation Slides due Oct 25 | 
 | 16 | Oct 26 | **Midterm Project Presentations** | [PDF](#) | - | - |
 | 17 | Oct 28 | **Midterm Project Presentations** | [PDF](#) | - | - | 
-| 18 | Nov 2 | Multilinguality  | [PDF](#) | TBD | Midterm Peer Feedback due Nov 2 | 
+| 18 | Nov 2 | Evaluation & Benchmarks | [PDF](#) | TBD | Midterm Peer Feedback due Nov 2 | 
 | 19 | Nov 4 | Guest Lecture - Mayee Chen | [PDF](#) | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 20 | Nov 9 | Guest Lecture - Nishant Balepur | [PDF](#) | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 21 | Nov 11 | Multimodality | [PDF](#) | TBD | - | 
