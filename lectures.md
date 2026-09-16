@@ -18,7 +18,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | - | Sep 7 | Labor Day (no class) | - | - | - |
 | 2 | Sep 9 | Text Representations | [PDF]({{ site.baseurl }}/lectures/2-text-representations.pdf) | SLP ch 2, ch 5 | - |
 | 3 | Sep 14 | Language Models and RNNs | [PDF]({{ site.baseurl }}/lectures/3-lms-rnns.pdf) | SLP ch 3, ch 14 | Project groups formed on Canvas. |
-| 4 | Sep 16 | Transformers | TBD | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | - |
+| 4 | Sep 16 | Transformers | [PDF]({{ site.baseurl }}/lectures/4-transformers.pdf) | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | - |
 | 5 | Sep 21 | Pre-training | TBD | SLP ch 7 | Project Brainstorming Slide due Sept 22 |
 | 6 | Sep 23 | **Project Proposal Presentations** | TBD | - | - | 
 | 7 | Sep 28 | Post-training | TBD | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
