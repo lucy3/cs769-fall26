@@ -48,12 +48,14 @@ We will have one class session dedicated to brainstorming presentations.
 
 Propose a project idea. This live pitch should include why the question/s being asked are important and why your project can be completed feasibly within this semester. 
 
-- Research question (1 pt). This question should be scoped so that it is addressable within the weeks we have remaining in this class. 
+- Research question (1 pt). This question should be scoped so that it is addressable within the weeks we have remaining in this class.
 - Core contribution (2 pt). You should juxtapose your contributions against relevant prior papers, e.g. what do you add that past papers do not? Are you working on a new or spin-off problem that has not received the attention it deserves? Cite representative prior work.
 - Method (1 pt). What models and tasks? Why these methods?
-- Data (1 pt). You can find datasets by reading papers that contribute metadata-rich resources or benchmarks. You may also create a dataset from scratch, though it's possible that doing so may require most of the semester's time and become your main contribution (e.g. a resources and benchmarks paper).
+- Data (1 pt). You can find datasets by reading papers that contribute metadata-rich resources or benchmarks. You may also create a dataset from scratch, though it’s possible that doing so may require most of the semester’s time and become your main contribution (e.g. a resources and benchmarks paper).
 
-You will pitch your slide in **1-5 minutes to the class, exact time TBD** depending on the number of project groups we have. You will **submit one Google Slide**, and we will compile all slides into one mega slide deck (taking the version of the document link closest to the deadline). If you have presenter notes, have those with you, as we'll be running the mega presentation on a laptop on our end. 
+Every member must present (-1 penalty if not). You should assign each member one or two bullet points.
+
+You will pitch your slide in 3 minutes during class. You will **submit one Google Slide**, and we will compile all slides into one mega slide deck (taking the version of the document link closest to the deadline). If you have presenter notes, have those with you, as we'll be running the mega presentation on a laptop on our end. 
 
 ## Peer Feedback I (5 pts)
 
