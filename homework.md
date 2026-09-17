@@ -69,7 +69,9 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Literature review. (3 pt)
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
 
-Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). 
+Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view").
+
+Overleaf offers a student rate for creating documents with up to 10 collaborators. Some [departments in L&S](https://www.overleaf.com/edu/wisc) also provide their students with Overleaf premium features, and if you are in a research group in Computer Sciences, your PI may also provide you with Overleaf premium through the department. 
 
 ## Midterm Presentation (10 pts)
 
