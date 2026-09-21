@@ -55,7 +55,7 @@ Propose a project idea. This live pitch should include why the question/s being 
 
 Every member must present (-1 penalty if not). You should assign each member one or two bullet points.
 
-You will pitch your slide in 3 minutes during class. You will **submit one Google Slide**, and we will compile all slides into one mega slide deck (taking the version of the document link closest to the deadline). If you have presenter notes, have those with you, as we'll be running the mega presentation on a laptop on our end. 
+You will pitch your slide in 3 minutes during class. You will **submit one Google Slide**, and we will compile all slides into one mega slide deck (taking the version of the document link closest to the deadline). If you have presenter notes, have those with you, as we'll be running the mega presentation on a laptop on our end. Please set your Google Slides to be publicly viewable. 
 
 ## Peer Feedback I (5 pts)
 
