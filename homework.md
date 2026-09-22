@@ -95,7 +95,7 @@ The **length of this presentation is TBD** based on the number of project groups
 
 ## Peer Feedback II (5 pts)
 
-The format and grading of this matches our peer feedback stage for brainstorming slides.
+The format and grading of this matches our peer feedback stage for brainstorming slides. Discrepencies in team member contribution statements may affect Midterm Presentation grades. 
 
 ## Final Report (25 pts)
 
