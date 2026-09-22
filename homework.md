@@ -59,7 +59,11 @@ You will pitch your slide in 3 minutes during class. You will **submit one Googl
 
 ## Peer Feedback I (5 pts)
 
-A folder of slide decks of groups' brainstorming efforts, locked to editing but open to comments, will be shared with the class. You are expected to add comments on each other's projects to **give at least three other project teams feedback, ideas, or questions**. This will be graded as all or nothing. Grading will not only consider just the number or presence of comments, but the quality of comments. Please spread out your comments so that each team gets some feedback from someone.
+**Inter-group feedback**. A folder of slide decks of groups' brainstorming efforts, locked to editing but open to comments, will be shared with the class. You are expected to add comments on each other's projects to **give at least three other project teams feedback, ideas, or questions**. Grading will not only consider just the number or presence of comments, but the quality of comments. Please spread out your comments so that each team gets some feedback from someone. In the provided Canvas text box, please list the titles of three projects you commented on. 
+
+**Intra-group feedback**. To ensure that members of each group continuously contribute to your group's project over the course of the semester, in addition to the above, we will also like you to use the Canvas text box to privately describe your own individual contributions to the project so far, along with the contributions of each of your team members. If there are discrepancies, Lucy will touch base with project members to discuss how the team could better collaborate to avoid individual grade adjustments later in the semester.
+
+This peer-review will be graded as all or nothing.
 
 ## Proposal (10 pts)
 
@@ -68,6 +72,7 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Research question and contributions, scope appropriately. (2 pt)
 - Literature review. (3 pt)
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
+- A joint contribution statement, that does not count towards the word limit, in which you describe the contributions of each team member, including AI use. (0 pts, but if missing, -1 pt)
 
 Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view").
 
