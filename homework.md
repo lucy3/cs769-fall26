@@ -34,7 +34,7 @@ The aim of this project is to produce a paper worthy of submission to a workshop
 
 **Deadlines**. **There are no late days** -- please plan ahead and coordinate with your group members if one of you has a conflict. Each day late incurs a 10% point penalty. Late days penalties are applied to assignment grading at the end of the semester. We follow Canvas's implementation of time for determining whether assignments are submitted late. It is possible that a deadline of 11:59 pm on Canvas is 11:59:00 pm and not 11:59:59 pm, and so you should avoid submitting too last-minute to avoid worrying at this level of granularity.
 
-**Grading**. Grading for the research project is shared across group members. We may adjust individual members' grades in extreme cases of unequal contribution. 
+**Grading**. Grading for the research project is shared across group members. For the written proposal, midterm presentation, and final report, we will adjust individual members' grades in extreme cases of unequal contribution. 
 
 **Project Overlap**. You can work on a project that has external collaborators who are not students in the course, but you must note this in your final report and delineate what was your work and what was theirs. You can share a single project between our class and another class, but you must declare that you are sharing the project in your project proposal, and the expectation is that your contribution and effort will be bigger. 
 
