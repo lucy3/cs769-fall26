@@ -74,7 +74,11 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
 - A contribution statement, that does not count towards the word limit, in which you describe the contributions of each individual team member, including AI use. (0 pts, but if missing, -1 pt)
 
-Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with this link can edit this project"). For an example of a contribution statement, look at the Appendix of the [Olmo 3 paper](https://arxiv.org/abs/2512.13961). You may include figures and tables. Points are not only given based on completion of each component, but based on soundness and clarity.
+Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with this link can edit this project"). For an example of a contribution statement, look at the Appendix of the [Olmo 3 paper](https://arxiv.org/abs/2512.13961). Points are not only given based on completion of each component, but based on soundness and clarity.
+
+You may include: 
+- figures and tables.
+- an unlimited Appendix, though course staff cannot guarantee we will read the entire thing. 
 
 Overleaf offers a student rate for creating documents with up to 10 collaborators. Some [departments in L&S](https://www.overleaf.com/edu/wisc) also provide their students with Overleaf premium features, and if you are in a research group in Computer Sciences, your PI may also provide you with Overleaf premium through the department. 
 
@@ -115,7 +119,7 @@ Project teams submit their papers, using the ACL conference paper template, as *
 - Formatting (0 pts, but -1 pt possible): One penalty point will be applied if the PDF you submit does not pass [aclpubcheck](https://github.com/acl-org/aclpubcheck). The penalty in actual research settings is harsher; papers get *desk rejected* when formatting rules are not followed. 
 - Clarity (0 pts, but -5 pt possible): Up to five penalty points may also be applied if your writing is unclear or if the paper's content is poorly organized. 
 
-Like with the project proposal, please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. Directly write your report in LaTeX in Overleaf.
+Like with the project proposal, please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. Directly write your report in LaTeX in Overleaf. You are allowed an unlimited Appendix, though course staff cannot guarantee we will read the entire thing. 
 
 ⚠️ The due date for the final paper is very close to the due date for the poster, to anticipate potential last minute changes to your results during poster preparation. We highly recommend starting and finishing this paper early! 
 
