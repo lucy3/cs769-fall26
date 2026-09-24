@@ -117,9 +117,8 @@ Project teams submit their papers, using the ACL conference paper template, as *
 - Conclusion and Future Work (1 pts): Provide a summary of your work and its implications, as well as follow-up potential work. 
 - Contributions (0 pts, but if missing, -1 pt): Describe the contributions of each collaborator (including AI use) across your project team.
 - Formatting (0 pts, but -1 pt possible): One penalty point will be applied if the PDF you submit does not pass [aclpubcheck](https://github.com/acl-org/aclpubcheck). The penalty in actual research settings is harsher; papers get *desk rejected* when formatting rules are not followed. 
-- Clarity (0 pts, but -5 pt possible): Up to five penalty points may also be applied if your writing is unclear or if the paper's content is poorly organized. 
 
-Like with the project proposal, please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. Directly write your report in LaTeX in Overleaf. You are allowed an unlimited Appendix, though course staff cannot guarantee we will read the entire thing. 
+Like with the project proposal, please include a link to your pdf Overleaf as a footnote in the PDF you upload onto Canvas. Directly write your report in LaTeX in Overleaf. You are allowed an unlimited Appendix, though course staff cannot guarantee we will read the entire thing. Points are not only given based on completion of each component, but based on soundness and clarity. 
 
 ⚠️ The due date for the final paper is very close to the due date for the poster, to anticipate potential last minute changes to your results during poster preparation. We highly recommend starting and finishing this paper early! 
 
