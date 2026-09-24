@@ -74,7 +74,7 @@ Expand on your project idea from the brainstorming phase (700-1000 words). It is
 - Your data and approach, including potential experiments and pipelines needed to carry out the project. (5 pt)
 - A contribution statement, that does not count towards the word limit, in which you describe the contributions of each indivdiaul team member, including AI use. (0 pts, but if missing, -1 pt)
 
-Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). For an example of a contribution statement, look at the Appendix of the [Olmo 3 paper](https://arxiv.org/abs/2512.13961). 
+Write your proposal directly in Overleaf as a human using the [ACL conference paper template](https://github.com/acl-org/acl-style-files), and include the link to the Overleaf as a footnote in the PDF your submit onto Canvas (with permissions set to "anyone with the link can view"). For an example of a contribution statement, look at the Appendix of the [Olmo 3 paper](https://arxiv.org/abs/2512.13961). You may include figures and tables. 
 
 Overleaf offers a student rate for creating documents with up to 10 collaborators. Some [departments in L&S](https://www.overleaf.com/edu/wisc) also provide their students with Overleaf premium features, and if you are in a research group in Computer Sciences, your PI may also provide you with Overleaf premium through the department. 
 

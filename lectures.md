@@ -35,9 +35,9 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 19 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 20 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 21 | Nov 11 | Interpretability | TBD | TBD | - | 
-| 22 | Nov 16 | Guest Lecture - ???? | TBD | TBD | - | 
-| 23 | Nov 18 | Retrieval & RAG | TBD | TBD | - | 
-| 24 | Nov 23 | Language Agents | TBD | TBD | - | 
+| 22 | Nov 16 | Retrieval & RAG | TBD | TBD | - | 
+| 23 | Nov 18 | Guest Lecture - ???? | TBD | TBD | - |
+| 24 | Nov 23 | Language Agents | TBD | TBD | - |
 | 25 | Nov 25 | Guest Lecture - ???? | TBD | TBD | - | 
 | 26 | Nov 30 | **In-Class Assignment II** | TBD | - | - | 
 | 27 | Dec 2 | Multimodality | TBD | - | - | 
