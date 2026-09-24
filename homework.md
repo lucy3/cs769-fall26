@@ -91,7 +91,7 @@ You will be graded based on:
 
 It is okay to not have all of the answers, but you should be able to explain details about your process and project. If you use AI to make key decisions in your project, you should be able to explain why the decisions being made are good decisions. 
 
-The **length of this presentation is TBD** based on the number of project groups. You will **submit your slides on Google Slides**, and we will compile them into a single mega-slide deck to ease presentation timing. 
+The legnth of this presentation is **7 minutes**. Please **submit your slides on Google Slides** (sorry if you prefer making it on another platform! Google Slides makes the peer feedback part easier), and we will compile them into a single mega-slide deck to ease presentation timing. 
 
 ## Peer Feedback II (5 pts)
 
