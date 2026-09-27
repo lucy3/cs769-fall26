@@ -24,13 +24,13 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 7 | Sep 28 | Post-training | TBD | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | TBD | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
 | 9 | Oct 5 | Generation & Inference | TBD | TBD | Project Proposal due Oct 5 | 
-| 10 | Oct 7 | **In Class Assignment I** | TBD | - | - | 
+| 10 | Oct 7 | **In Class Assignment I** | TBD | Covers up to Sept 30's materials. | - | 
 | 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | - | 
 | 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | TBD | [Sara's website](https://skangasl.github.io/) | - |
 | 14 | Oct 19 | Reasoning | TBD | TBD | - | 
 | 15 | Oct 21 | Long Contexts & Experts | TBD | TBD | Midterm Presentation Slides due Oct 25 | 
 | 16 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
-| 17 | Oct 28 | **Midterm Project Presentations** | TBD | - | - | 
+| 17 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
 | 18 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
 | 19 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 20 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
@@ -39,7 +39,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 23 | Nov 18 | Guest Lecture - ???? | TBD | TBD | - |
 | 24 | Nov 23 | Language Agents | TBD | TBD | - |
 | 25 | Nov 25 | Guest Lecture - ???? | TBD | TBD | - | 
-| 26 | Nov 30 | **In-Class Assignment II** | TBD | - | - | 
+| 26 | Nov 30 | **In-Class Assignment II** | TBD | Covers Oct 5 to Nov 23's materials. | - | 
 | 27 | Dec 2 | Multimodality | TBD | - | - | 
 | 28 | Dec 7 | Safety, Societal Impact, & Fairness | TBD | - | Final Project Report due Dec 7 | 
 | 29 | Dec 9 | **Poster Session** | - | - | Poster due Dec 9 | 
