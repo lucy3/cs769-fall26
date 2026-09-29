@@ -25,7 +25,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 8 | Sep 30 | Prompting & Fine-tuning | TBD | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
 | 9 | Oct 5 | Generation & Inference | TBD | TBD | Project Proposal due Oct 5 | 
 | 10 | Oct 7 | **In Class Assignment I** | TBD | Covers up to Sept 30's materials. | - | 
-| 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | - | 
+| 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
 | 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | TBD | [Sara's website](https://skangasl.github.io/) | - |
 | 14 | Oct 19 | Reasoning | TBD | TBD | - | 
 | 15 | Oct 21 | Long Contexts & Experts | TBD | TBD | Midterm Presentation Slides due Oct 25 | 
