@@ -23,11 +23,11 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 6 | Sep 23 | **Project Proposal Presentations** | TBD | - | - | 
 | 7 | Sep 28 | Post-training | [PDF]({{ site.baseurl }}/lectures/7-post-training.pdf)  | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF]({{ site.baseurl }}/lectures/8-prompting-finetuning.pdf)  | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
-| 9 | Oct 5 | Generation & Inference | TBD | [Speculative Decoding](https://openreview.net/forum?id=C9NEblP8vS) <br> [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) | Project Proposal due Oct 5 | 
+| 9 | Oct 5 | Generation | TBD | [Speculative Decoding](https://openreview.net/forum?id=C9NEblP8vS) <br> [Inference-time Algorithms](https://arxiv.org/abs/2406.16838) | Project Proposal due Oct 5 | 
 | 10 | Oct 7 | **In Class Assignment I** | TBD | Covers up to Sept 30's materials. | - | 
 | 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
 | 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | TBD | [Sara's website](https://skangasl.github.io/) | - |
-| 14 | Oct 19 | Reasoning | TBD | TBD | - | 
+| 14 | Oct 19 | Reasoning | TBD | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) | - | 
 | 15 | Oct 21 | Long Contexts & Experts | TBD | TBD | Midterm Presentation Slides due Oct 25 | 
 | 16 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
 | 17 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
