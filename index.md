@@ -16,7 +16,7 @@ Natural language processing (NLP) models human language with computers, tackling
 **TA**: [Sonia Cromp](https://socromp.github.io/) <br> 
 **Class time**: Mon & Wed 1:00PM - 2:15PM <br>
 **Location**: COMP SCI 1257 <br> 
-**Instructor OH**: Wed 3:00 PM - 4:00 PM (Morgridge Hall; room number on Canvas). NOTE: for Wed 9/30, due to a conflict, Lucy's OHs end at 3:30 PM. To make up for this, she has extra OH Fri 10/2 10:30 AM - 11:30 AM.<br>
+**Instructor OH**: Wed 3:00 PM - 4:00 PM (Morgridge Hall; room number on Canvas). NOTE: for Wed 8/7 and 8/14, due to a conflict, Lucy's OHs end at 3:30 PM. To make up for this, she has extra OH Tues 8/13 4 PM - 5 PM.<br>
 **TA OH**: Thurs 1:00 PM - 2:00 PM (zoom link to be announced on Canvas)
 
 ## Contact
