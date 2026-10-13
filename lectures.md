@@ -27,8 +27,8 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 10 | Oct 7 | **In Class Assignment I** | TBD | Covers up to Sept 30's materials. | - | 
 | 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
 | 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | TBD | [Sara's website](https://skangasl.github.io/) | - |
-| 14 | Oct 19 | Reasoning | TBD | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) | - | 
-| 15 | Oct 21 | Long Contexts & Experts | TBD | TBD | Midterm Presentation Slides due Oct 25 | 
+| 14 | Oct 19 | Reasoning | TBD | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) <br> [DeepSeek-R1](https://arxiv.org/abs/2501.12948) <br> [GRPO Paper](https://arxiv.org/abs/2402.03300) | - | 
+| 15 | Oct 21 | Long Contexts & Experts | TBD | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
 | 16 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
 | 17 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
 | 18 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
