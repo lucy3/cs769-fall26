@@ -36,9 +36,9 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 20 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 21 | Nov 11 | Retrieval & RAG | TBD | TBD | - | 
 | 22 | Nov 16 | Language Agents | TBD | TBD | - | 
-| 23 | Nov 18 | Guest Lecture - Vijay Viswanathan | TBD | TBD | - |
+| 23 | Nov 18 | Guest Lecture - Vijay Viswanathan | TBD | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
 | 24 | Nov 23 | Interpretability | TBD | TBD | - |
-| 25 | Nov 25 | Guest Lecture - Caleb Ziems | TBD | TBD | - | 
+| 25 | Nov 25 | Guest Lecture - Caleb Ziems | TBD | [Caleb's website](https://calebziems.com/) | - | 
 | 26 | Nov 30 | **In-Class Assignment II** | TBD | Covers Oct 5 to Nov 23's materials. | - | 
 | 27 | Dec 2 | Multimodality | TBD | - | - | 
 | 28 | Dec 7 | Safety, Societal Impact, & Fairness | TBD | - | Final Project Report due Dec 7 | 
