@@ -25,21 +25,21 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF]({{ site.baseurl }}/lectures/8-prompting-finetuning.pdf)  | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
 | 9 | Oct 5 | Generation | [PDF]({{ site.baseurl }}/lectures/9-generation.pdf) | [Speculative Decoding](https://openreview.net/forum?id=C9NEblP8vS) <br> [Inference-time Algorithms](https://arxiv.org/abs/2406.16838) | Project Proposal due Oct 5 | 
 | 10 | Oct 7 | **In Class Assignment I** | - | Covers up to Sept 30's materials. | - | 
-| 12 | Oct 12 | Guest Lecture - Rulin Shao | - | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
-| 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | - | [Sara's website](https://skangasl.github.io/) | - |
-| 14 | Oct 19 | Reasoning | TBD | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) <br> [Inference Scaling Laws](https://openreview.net/forum?id=j7DZWSc8qu) <br> [s1 paper](https://aclanthology.org/2025.emnlp-main.1025/) <br> [DeepSeek-R1](https://arxiv.org/abs/2501.12948) <br> [GRPO Paper](https://arxiv.org/abs/2402.03300) | - | 
-| 15 | Oct 21 | Long Contexts & Experts | TBD | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
-| 16 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
-| 17 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
-| 18 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
-| 19 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
-| 20 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
-| 21 | Nov 11 | Retrieval & RAG | TBD | TBD | - | 
-| 22 | Nov 16 | Language Agents | TBD | TBD | - | 
-| 23 | Nov 18 | Guest Lecture - Vijay Viswanathan | TBD | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
-| 24 | Nov 23 | Interpretability | TBD | TBD | - |
-| 25 | Nov 25 | Guest Lecture - Caleb Ziems | TBD | [Caleb's website](https://calebziems.com/) | - | 
-| 26 | Nov 30 | **In-Class Assignment II** | TBD | Covers Oct 5 to Nov 23's materials. | - | 
-| 27 | Dec 2 | Multimodality | TBD | - | - | 
-| 28 | Dec 7 | Safety, Societal Impact, & Fairness | TBD | - | Final Project Report due Dec 7 | 
-| 29 | Dec 9 | **Poster Session** | - | - | Poster due Dec 9 | 
+| 11 | Oct 12 | Guest Lecture - Rulin Shao | - | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
+| 12 | Oct 14 | Guest Lecture - Sara Kangaslahti | - | [Sara's website](https://skangasl.github.io/) | - |
+| 13 | Oct 19 | Reasoning | [PDF]({{ site.baseurl }}/lectures/13-reasoning.pdf) | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) <br> [Inference Scaling Laws](https://openreview.net/forum?id=j7DZWSc8qu) <br> [s1 paper](https://aclanthology.org/2025.emnlp-main.1025/) <br> [DeepSeek-R1](https://arxiv.org/abs/2501.12948) <br> [GRPO Paper](https://arxiv.org/abs/2402.03300) | - | 
+| 14 | Oct 21 | Long Contexts & Experts | TBD | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
+| 15 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
+| 16 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
+| 17 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
+| 18 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
+| 19 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
+| 20 | Nov 11 | Retrieval & RAG | TBD | TBD | - | 
+| 21 | Nov 16 | Language Agents | TBD | TBD | - | 
+| 22 | Nov 18 | Guest Lecture - Vijay Viswanathan | TBD | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
+| 23 | Nov 23 | Interpretability | TBD | TBD | - |
+| 24 | Nov 25 | Guest Lecture - Caleb Ziems | TBD | [Caleb's website](https://calebziems.com/) | - | 
+| 25 | Nov 30 | **In-Class Assignment II** | TBD | Covers Oct 5 to Nov 23's materials. | - | 
+| 26 | Dec 2 | Multimodality | TBD | - | - | 
+| 27 | Dec 7 | Safety, Societal Impact, & Fairness | TBD | - | Final Project Report due Dec 7 | 
+| 28 | Dec 9 | **Poster Session** | - | - | Poster due Dec 9 | 
