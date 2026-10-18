@@ -20,13 +20,13 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 3 | Sep 14 | Language Models and RNNs | [PDF]({{ site.baseurl }}/lectures/3-lms-rnns.pdf) | SLP ch 3, ch 14 | Project groups formed on Canvas. |
 | 4 | Sep 16 | Transformers | [PDF]({{ site.baseurl }}/lectures/4-transformers.pdf) | [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) <br> [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) <br> [LLMs from Scratch](https://sebastianraschka.com/llms-from-scratch/) | - |
 | 5 | Sep 21 | Pre-training | [PDF]({{ site.baseurl }}/lectures/5-pretraining.pdf) | SLP ch 7 <br> [BERT paper](https://aclanthology.org/N19-1423/) <br> [T5 paper](https://arxiv.org/abs/1910.10683) <br> [GPT-3 paper](https://arxiv.org/abs/2005.14165) | Project Brainstorming Slide due Sept 22 |
-| 6 | Sep 23 | **Project Proposal Presentations** | TBD | - | - | 
+| 6 | Sep 23 | **Project Proposal Presentations** | - | - | - | 
 | 7 | Sep 28 | Post-training | [PDF]({{ site.baseurl }}/lectures/7-post-training.pdf)  | SLP ch 8, Nathan Lambert's [RLHF Book](https://rlhfbook.com/course). <br> [From Sampling to Reinforce](https://srush.github.io/sampling-to-reinforce/) | - | 
 | 8 | Sep 30 | Prompting & Fine-tuning | [PDF]({{ site.baseurl }}/lectures/8-prompting-finetuning.pdf)  | [Scratchpads, Nye et al. 2021](https://arxiv.org/abs/2112.00114) <br> [CoT, Wei et al. 2023](https://arxiv.org/abs/2201.11903) <br> [LoRA, Hu et al. 2021](https://arxiv.org/abs/2106.09685) <br> [QLoRA, Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) | Brainstorming Peer Feedback due Oct 1 | 
 | 9 | Oct 5 | Generation | [PDF]({{ site.baseurl }}/lectures/9-generation.pdf) | [Speculative Decoding](https://openreview.net/forum?id=C9NEblP8vS) <br> [Inference-time Algorithms](https://arxiv.org/abs/2406.16838) | Project Proposal due Oct 5 | 
-| 10 | Oct 7 | **In Class Assignment I** | TBD | Covers up to Sept 30's materials. | - | 
-| 12 | Oct 12 | Guest Lecture - Rulin Shao | TBD | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
-| 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | TBD | [Sara's website](https://skangasl.github.io/) | - |
+| 10 | Oct 7 | **In Class Assignment I** | - | Covers up to Sept 30's materials. | - | 
+| 12 | Oct 12 | Guest Lecture - Rulin Shao | - | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
+| 13 | Oct 14 | Guest Lecture - Sara Kangaslahti | - | [Sara's website](https://skangasl.github.io/) | - |
 | 14 | Oct 19 | Reasoning | TBD | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) <br> [Inference Scaling Laws](https://openreview.net/forum?id=j7DZWSc8qu) <br> [s1 paper](https://aclanthology.org/2025.emnlp-main.1025/) <br> [DeepSeek-R1](https://arxiv.org/abs/2501.12948) <br> [GRPO Paper](https://arxiv.org/abs/2402.03300) | - | 
 | 15 | Oct 21 | Long Contexts & Experts | TBD | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
 | 16 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
