@@ -28,9 +28,9 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 11 | Oct 12 | Guest Lecture - Rulin Shao | - | [Rulin's website](https://rulinshao.github.io/) | Please fill out mid-term course evaluation! | 
 | 12 | Oct 14 | Guest Lecture - Sara Kangaslahti | - | [Sara's website](https://skangasl.github.io/) | - |
 | 13 | Oct 19 | Reasoning | [PDF]({{ site.baseurl }}/lectures/13-reasoning.pdf) | [Scaling Test-Time Compute](https://openreview.net/forum?id=4FWAwZtd2n) <br> [Inference Scaling Laws](https://openreview.net/forum?id=j7DZWSc8qu) <br> [s1 paper](https://aclanthology.org/2025.emnlp-main.1025/) <br> [DeepSeek-R1](https://arxiv.org/abs/2501.12948) <br> [GRPO Paper](https://arxiv.org/abs/2402.03300) | - | 
-| 14 | Oct 21 | Long Contexts & Experts | TBD | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
-| 15 | Oct 26 | **Midterm Project Presentations** | TBD | - | - |
-| 16 | Oct 28 | **Midterm Project Presentations** | TBD | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
+| 14 | Oct 21 | Long Contexts & Experts | [PDF]({{ site.baseurl }}/lectures/14-long-experts.pdf) | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
+| 15 | Oct 26 | **Midterm Project Presentations** | - | - | - |
+| 16 | Oct 28 | **Midterm Project Presentations** | - | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
 | 17 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
 | 18 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 19 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
