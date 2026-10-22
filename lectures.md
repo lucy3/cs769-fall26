@@ -31,7 +31,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 14 | Oct 21 | Long Contexts & Experts | [PDF]({{ site.baseurl }}/lectures/14-long-experts.pdf) | [Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) <br> [FlashAttention](https://arxiv.org/abs/2205.14135) <br> [LongFormer](https://arxiv.org/abs/2004.05150) <br> [Switch Transformers](https://dl.acm.org/doi/10.5555/3586589.3586709) <br> [DeepSeekMoE](https://aclanthology.org/2024.acl-long.70/) <br> [OLMoE](https://openreview.net/forum?id=xXTkbTBmqq) | Midterm Presentation Slides due Oct 25 | 
 | 15 | Oct 26 | **Midterm Project Presentations** | - | - | - |
 | 16 | Oct 28 | **Midterm Project Presentations** | - | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
-| 17 | Nov 2 | Evaluation & Benchmarks | TBD | TBD | Midterm Peer Feedback due Nov 2 | 
+| 17 | Nov 2 | Evaluation & Benchmarks | TBD | [HELM](https://openreview.net/forum?id=iO4LZibEqW) <br> [Crowdworker Perspectives](https://aclanthology.org/2023.emnlp-main.64/) <br> [Utility is in Eye](https://aclanthology.org/2020.emnlp-main.393/) <br> [MC Eval](https://aclanthology.org/2025.acl-long.169/) <br> [LLM Construct Validity](https://openreview.net/forum?id=mdA5lVvNcU) | Midterm Peer Feedback due Nov 2 | 
 | 18 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 19 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 20 | Nov 11 | Retrieval & RAG | TBD | TBD | - | 
