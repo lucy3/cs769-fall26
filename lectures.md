@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+description: "Lecture schedule, slides, readings, and deadlines for CS 769: Advanced Natural Language Processing at UW-Madison, Fall 2026."
 layout: default
 nav_order: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: Assignments
+description: "In-class assignments and research project details for CS 769: Advanced Natural Language Processing at UW-Madison, Fall 2026."
 layout: default
 nav_order: 3
 ---

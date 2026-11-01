@@ -1,6 +1,12 @@
-title: CS 769
-description: Fall 2026
+# Full title, used in browser tabs and search results.
+title: "CS 769: Advanced Natural Language Processing"
+# Short title shown in the sidebar (see _includes/title.html).
+short_title: "CS 769"
+description: "CS 769: Advanced Natural Language Processing at the University of Wisconsin-Madison, Fall 2026. A research-driven graduate course on NLP and large language models, culminating in a final research project."
 theme: just-the-docs
+
+plugins:
+  - jekyll-sitemap
 
 url: "https://lucy3.github.io"
 baseurl: "/cs769-fall26"
