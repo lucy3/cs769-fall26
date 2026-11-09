@@ -35,7 +35,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 17 | Nov 2 | Evaluation & Benchmarks | [PDF]({{ site.baseurl }}/lectures/17-eval-benchmark.pdf) | [HELM](https://openreview.net/forum?id=iO4LZibEqW) <br> [Crowdworker Perspectives](https://aclanthology.org/2023.emnlp-main.64/) <br> [Utility is in Eye](https://aclanthology.org/2020.emnlp-main.393/) <br> [MC Eval](https://aclanthology.org/2025.acl-long.169/) <br> [LLM Construct Validity](https://openreview.net/forum?id=mdA5lVvNcU) | Midterm Peer Feedback due Nov 2 | 
 | 18 | Nov 4 | Guest Lecture - Mayee Chen | - | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 19 | Nov 9 | Guest Lecture - Nishant Balepur | - | [Nishant's website](https://nbalepur.github.io/) | - | 
-| 20 | Nov 11 | Retrieval & RAG | TBD | [DPR](https://aclanthology.org/2020.emnlp-main.550/) <br> [DrQA](https://aclanthology.org/P17-1171/) <br> [RAG](https://dl.acm.org/doi/abs/10.5555/3495724.3496517) | - | 
+| 20 | Nov 11 | Retrieval & RAG | TBD | [DPR](https://aclanthology.org/2020.emnlp-main.550/) <br> [DrQA](https://aclanthology.org/P17-1171/) <br> [RAG](https://dl.acm.org/doi/abs/10.5555/3495724.3496517) <br> SLP ch 11 | - | 
 | 21 | Nov 16 | Language Agents | TBD | TBD | - | 
 | 22 | Nov 18 | Guest Lecture - Vijay Viswanathan | - | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
 | 23 | Nov 23 | Interpretability | TBD | TBD | - |
