@@ -33,14 +33,14 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 15 | Oct 26 | **Midterm Project Presentations** | - | - | - |
 | 16 | Oct 28 | **Midterm Project Presentations** | - | [Common problems in NLP papers](https://aclrollingreview.org/reviewerguidelines#paper-issues) | - | 
 | 17 | Nov 2 | Evaluation & Benchmarks | [PDF]({{ site.baseurl }}/lectures/17-eval-benchmark.pdf) | [HELM](https://openreview.net/forum?id=iO4LZibEqW) <br> [Crowdworker Perspectives](https://aclanthology.org/2023.emnlp-main.64/) <br> [Utility is in Eye](https://aclanthology.org/2020.emnlp-main.393/) <br> [MC Eval](https://aclanthology.org/2025.acl-long.169/) <br> [LLM Construct Validity](https://openreview.net/forum?id=mdA5lVvNcU) | Midterm Peer Feedback due Nov 2 | 
-| 18 | Nov 4 | Guest Lecture - Mayee Chen | TBD | [Mayee's website](https://mayeechen.github.io/) | - | 
-| 19 | Nov 9 | Guest Lecture - Nishant Balepur | TBD | [Nishant's website](https://nbalepur.github.io/) | - | 
+| 18 | Nov 4 | Guest Lecture - Mayee Chen | - | [Mayee's website](https://mayeechen.github.io/) | - | 
+| 19 | Nov 9 | Guest Lecture - Nishant Balepur | - | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 20 | Nov 11 | Retrieval & RAG | TBD | [DPR](https://aclanthology.org/2020.emnlp-main.550/) <br> [DrQA](https://aclanthology.org/P17-1171/) <br> [RAG](https://dl.acm.org/doi/abs/10.5555/3495724.3496517) | - | 
 | 21 | Nov 16 | Language Agents | TBD | TBD | - | 
-| 22 | Nov 18 | Guest Lecture - Vijay Viswanathan | TBD | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
+| 22 | Nov 18 | Guest Lecture - Vijay Viswanathan | - | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
 | 23 | Nov 23 | Interpretability | TBD | TBD | - |
-| 24 | Nov 25 | Guest Lecture - Caleb Ziems | TBD | [Caleb's website](https://calebziems.com/) | - | 
-| 25 | Nov 30 | **In-Class Assignment II** | TBD | Covers Oct 5 to Nov 23's materials. | - | 
+| 24 | Nov 25 | Guest Lecture - Caleb Ziems | - | [Caleb's website](https://calebziems.com/) | - | 
+| 25 | Nov 30 | **In-Class Assignment II** | - | Covers Oct 5 to Nov 23's materials. | - | 
 | 26 | Dec 2 | Multimodality | TBD | - | - | 
 | 27 | Dec 7 | Safety, Societal Impact, & Fairness | TBD | - | Final Project Report due Dec 7 | 
 | 28 | Dec 9 | **Poster Session** | - | - | Poster due Dec 9 | 
