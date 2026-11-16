@@ -36,7 +36,7 @@ SLP = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | 18 | Nov 4 | Guest Lecture - Mayee Chen | - | [Mayee's website](https://mayeechen.github.io/) | - | 
 | 19 | Nov 9 | Guest Lecture - Nishant Balepur | - | [Nishant's website](https://nbalepur.github.io/) | - | 
 | 20 | Nov 11 | Retrieval & RAG | [PDF]({{ site.baseurl }}/lectures/20-retrieval.pdf) | [DPR](https://aclanthology.org/2020.emnlp-main.550/) <br> [DrQA](https://aclanthology.org/P17-1171/) <br> [RAG](https://dl.acm.org/doi/abs/10.5555/3495724.3496517) <br> SLP ch 11 | - | 
-| 21 | Nov 16 | Language Agents | TBD | [WebArena](https://arxiv.org/abs/2307.13854) <br> [ReAct](https://arxiv.org/abs/2210.03629) <br> [Toolformer](https://arxiv.org/abs/2302.04761) <b> [MemGPT](https://arxiv.org/abs/2310.08560) | - | 
+| 21 | Nov 16 | Language Agents | [PDF]({{ site.baseurl }}/lectures/21-agents.pdf) | [WebArena](https://arxiv.org/abs/2307.13854) <br> [ReAct](https://arxiv.org/abs/2210.03629) <br> [Toolformer](https://arxiv.org/abs/2302.04761) <b> [MemGPT](https://arxiv.org/abs/2310.08560) | - | 
 | 22 | Nov 18 | Guest Lecture - Vijay Viswanathan | - | [Vijay's website](https://www.cs.cmu.edu/~vijayv/) | - |
 | 23 | Nov 23 | Interpretability | TBD | TBD | - |
 | 24 | Nov 25 | Guest Lecture - Caleb Ziems | - | [Caleb's website](https://calebziems.com/) | - | 
